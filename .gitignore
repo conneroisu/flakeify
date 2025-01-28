@@ -25,6 +25,7 @@ go.work.sum
 .env
 # Devenv
 .devenv*
+.devenv
 devenv.local.nix
 
 # direnv

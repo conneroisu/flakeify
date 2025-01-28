@@ -27,8 +27,6 @@
         };
       in {
         packages = {
-          inherit (pkgs) sqlcquash;
-          default = pkgs.sqlcquash;
         };
       }
     )
